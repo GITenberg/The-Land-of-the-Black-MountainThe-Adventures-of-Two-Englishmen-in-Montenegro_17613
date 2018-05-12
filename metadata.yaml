@@ -1,0 +1,29 @@
+_repo: The-Land-of-the-Black-MountainThe-Adventures-of-Two-Englishmen-in-Montenegro_17613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Prance, Gerald
+    gutenberg_agent_id: '7494'
+    url: http://www.gutenberg.org/2009/agents/7494
+  - agent_name: Wyon, Reginald
+    birthdate: 1872
+    deathdate: 1921
+    gutenberg_agent_id: '7493'
+    url: http://www.gutenberg.org/2009/agents/7493
+description: ''
+gutenberg_issued: '2006-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17613'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montenegro -- Description and travel'
+- !lcc 'DR'
+title: 'The Land of the Black Mountain: The Adventures of Two Englishmen in Montenegro'
+url: http://www.gutenberg.org/ebooks/17613
